@@ -29,10 +29,9 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .btn-primary{color: #fff;background:#FF2E27;width: 100%;outline: none;}
 .btn-primary:hover,.btn-primary:active,.btn-primary:focus{background:#EB2525;box-shadow: none;}
 
-.topbar {background:url(../images/lines.png);	height:5px;position: fixed;top: 0;width: 100%;z-index: 1000;}
+/*.topbar {background:url(../images/lines.png);	height:5px;position: fixed;top: 0;width: 100%;z-index: 1000;}*/
 a.navbar-brand {margin-top: 10px;}
 .navbar-nav > li > a{font-size: 1em;line-height: 3.6em;}
-.navbar-fixed-top{top: 5px;}
 .navbar-inverse{background: #111;}
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{background: none;color: #FF2E27;}
 
