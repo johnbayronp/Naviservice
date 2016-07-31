@@ -822,13 +822,13 @@ pre code {
 
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1010px;
   }
 }
 
 .row {
-  margin-right: -15px;
-  margin-left: -15px;
+  margin-right: -0.5px;
+  margin-left: -0.5px;
 }
 
 .row:before,
@@ -901,8 +901,8 @@ pre code {
 .col-lg-12 {
   position: relative;
   min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 0.5px;
+  padding-left: 0.5px;
 }
 
 .col-xs-1,
